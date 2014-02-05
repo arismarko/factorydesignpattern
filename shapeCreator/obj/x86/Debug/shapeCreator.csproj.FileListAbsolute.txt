@@ -1,0 +1,5 @@
+c:\users\aris\documents\visual studio 2010\Projects\shapeCreator\shapeCreator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aris\documents\visual studio 2010\Projects\shapeCreator\shapeCreator\bin\Debug\shapeCreator.exe
+c:\users\aris\documents\visual studio 2010\Projects\shapeCreator\shapeCreator\bin\Debug\shapeCreator.pdb
+c:\users\aris\documents\visual studio 2010\Projects\shapeCreator\shapeCreator\obj\x86\Debug\shapeCreator.exe
+c:\users\aris\documents\visual studio 2010\Projects\shapeCreator\shapeCreator\obj\x86\Debug\shapeCreator.pdb
